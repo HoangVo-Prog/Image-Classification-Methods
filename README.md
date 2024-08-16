@@ -1,1 +1,1 @@
-**Discription**: The Python codes implement simple templates to solve image classification problems
+**Description**: The Python codes implement simple templates to solve image classification problems
